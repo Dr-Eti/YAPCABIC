@@ -1,5 +1,5 @@
 # YAPCABIC
-Yet another PCA and biptlot comparison
+Yet another PCA and biplot comparison
 
 contains shared script to accompany manuscript QUQU-D-24-00734 
 - accompanying data and code
